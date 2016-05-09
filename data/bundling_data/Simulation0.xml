@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+  http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+
+  <graph edgedefault="directed">
+    <!-- nodes -->
+    <node id="0">
+      <data key="x">-100</data>
+      <data key="tooltip">Baldwin,AL</data>
+      <data key="y">10</data>
+    </node>
+	<node id="1">
+      <data key="x">100</data>
+      <data key="tooltip">Baldwin,AL</data>
+      <data key="y">10</data>
+    </node>
+	<node id="2">
+      <data key="x">-100</data>
+      <data key="tooltip">Baldwin,AL</data>
+      <data key="y">0</data>
+    </node>
+	<node id="3">
+      <data key="x">100</data>
+      <data key="tooltip">Baldwin,AL</data>
+      <data key="y">0</data>
+    </node>
+	<node id="4">
+      <data key="x">-120</data>
+      <data key="tooltip">Baldwin,AL</data>
+      <data key="y">5</data>
+    </node>
+	<node id="5">
+      <data key="x">180</data>
+      <data key="tooltip">Baldwin,AL</data>
+      <data key="y">5</data>
+    </node>
+	<node id="6">
+      <data key="x">-100</data>
+      <data key="tooltip">Baldwin,AL</data>
+      <data key="y">25</data>
+    </node>
+	<node id="7">
+      <data key="x">100</data>
+      <data key="tooltip">Baldwin,AL</data>
+      <data key="y">0</data>
+    </node>
+	
+	<edge id="0" source="0" target="1">
+      <data key="value">10</data>
+    </edge>
+	<edge id="1" source="2" target="3">
+      <data key="value">10</data>
+    </edge>
+	<edge id="2" source="4" target="5">
+      <data key="value">10</data>
+    </edge>
+	<edge id="3" source="6" target="7">
+      <data key="value">10</data>
+    </edge>
+  </graph>
+</graphml>

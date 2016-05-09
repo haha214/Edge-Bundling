@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<road>
+    <node id="0">
+      <data key="x">-860</data>
+      <data key="y">-340</data>
+    </node>
+	 <node id="1">
+      <data key="x">-870</data>
+      <data key="y">-320</data>
+    </node>
+	    <node id="2">
+      <data key="x">-900.1666666666667</data>
+      <data key="y">-341.8333333333333</data>
+    </node>
+	<node id="3">
+      <data key="x">-869.1666666666667</data>
+      <data key="y">-300.8333333333333</data>
+    </node>
+	<node id="4">
+      <data key="x">-889.1666666666667</data>
+      <data key="y">-320.8333333333333</data>
+    </node>
+	 <node id="5">
+      <data key="x">-1200</data>
+      <data key="y">-400</data>
+    </node>
+	 <node id="6">
+      <data key="x">-1100</data>
+      <data key="y">-300</data>
+    </node>
+	
+	 <edge id="0" source="0" target="1">
+      <data key="value">150000</data>
+    </edge>
+	 <edge id="1" source="1" target="2">
+      <data key="value">150000</data>
+    </edge>
+	 <edge id="2" source="0" target="3">
+      <data key="value">150000</data>
+    </edge>
+	 <edge id="3" source="2" target="4">
+      <data key="value">150000</data>
+    </edge>
+	<edge id="4" source="5" target="6">
+      <data key="value">150000</data>
+    </edge>
+</road>
