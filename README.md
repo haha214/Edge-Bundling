@@ -23,5 +23,8 @@
 <br>
 ![](pic/1.jpg)  
 <br>
+- 边绑定处理后
+<br>
 ![](pic/3.jpg) 
+<br>
 ![](pic/2.png)
